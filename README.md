@@ -85,7 +85,7 @@
 
 <div align="center">
   <a href="mailto:sakib30278@gmail.com" style="text-decoration: none;">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40"  width="52" style="vertical-align: middle; border: none;" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" width="52" style="vertical-align: middle; border: none;" />
   </a>
   <a href="https://www.facebook.com/sakib30278" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" style="vertical-align: middle; border: none;" />
@@ -96,8 +96,10 @@
   <a href="https://t.me/sakibghost" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" style="vertical-align: middle; border: none;" />
   </a>
+  <a href="https://www.linkedin.com/in/nazmus-sakib-anik/" target="_blank" style="text-decoration: none;">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" style="vertical-align: middle; border: none;" />
+  </a>
 </div>
-
 ---
 
 
