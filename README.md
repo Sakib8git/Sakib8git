@@ -128,11 +128,6 @@
   <img src="https://streak-stats.demolab.com?user=Sakib8git&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,canva,blender,c,vim" />
-  </a>
-</p>
 
 ## 🐍 Contribution Snake
 
