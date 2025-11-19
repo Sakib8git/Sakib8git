@@ -16,7 +16,13 @@
 
 ###
 
-<p align="left">I am a passionate MERN stack developer focused on building visually stunning, production-ready apps.  <br>Currently, I’m working on: Habit-Tracker<br>- Exploring **Next.js** for scalable frontend solutions<br>- Building a **Habit Tracker Web App** with robust backend integration<br>- Experimenting with **Express + MongoDB** for secure server setups</p>
+🚀 A passionate Frontend & MERN Stack Developer from Khulna, Bangladesh — focused on building fast, scalable, and visually stunning web applications.
+
+💻 Skilled in React.js, Node.js, Express.js, and MongoDB  
+🌱 Currently learning advanced full-stack architecture and cloud deployment strategies  
+🤝 Open to MERN Stack collaborations and team-based development  
+🎯 Goal: Become a cloud-ready full-stack developer with production-grade deployment skills  
+🎨 Obsessed with pixel-perfect UI, modular code, and seamless user experience
 
 
 
@@ -34,7 +40,7 @@
 
 
 
-vscode
+
 <!-- <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -102,9 +108,8 @@ vscode
 
 
 
-
 <div align="center">
-  <a href="mailto:mdriyazakondo265@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"  width="52"/></a>
+  <a href="sakib30278@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"  width="52"/></a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
