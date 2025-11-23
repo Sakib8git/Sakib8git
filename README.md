@@ -1,12 +1,14 @@
 <br clear="both">
 
 <div align="center">
-  <img height="240" src="https://github.com/user-attachments/assets/e6644290-7fb2-4cd7-8184-73bde455c81a"   />
+
+  <!-- Animated Coding Banner -->
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" 
+       height="260" />
+
 </div>
 
-###
 
-<br clear="both">
 
 <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1AF700&width=435&lines=Hi%2C+I'm+Nazmus+Sakib+Anik;%F0%9F%9A%80+Frontend+and+MERN+Stack+Developer" alt="Typing SVG" /></a> -->
 
@@ -94,7 +96,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sakib8git&theme=radical&no-frame=true&row=1&margin-w=15" />
 </p>
-
 
 
 
