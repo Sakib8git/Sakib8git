@@ -16,13 +16,6 @@
 
 
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Welcome_To_My_Profile-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-
-
-
 ## 👨‍💻 About Me
 
 🚀 Passionate **Frontend & MERN Stack Developer** from **Khulna, Bangladesh**, focused on building fast, scalable, and visually polished web applications.  
@@ -111,8 +104,11 @@
 
 
 ---
-
 <p align="center">✨ Always learning, always building. 🚀</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Sakib8git-000000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 
 
