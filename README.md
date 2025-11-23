@@ -50,13 +50,6 @@
 </p>
 
 
-<!-- <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-</p> -->
 
 ### 🧰 Tools & Platforms
 
@@ -113,7 +106,7 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakib8git&theme=react-dark&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" width="48%"/>
-  <img src="https://streak-stats.demolab.com?user=Sakib8git&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
+  <img src="https://streak-stats.demolab.com?user=Sakib8git&theme=tokyonight&hide_border=true&border_radius=15" width="50%"/>
 </p>
 
 
