@@ -1,16 +1,27 @@
 <br clear="both">
 
 <div align="center">
-  <img height="250" src="https://github.com/user-attachments/assets/e6644290-7fb2-4cd7-8184-73bde455c81a"  />
+  <img height="240" src="https://github.com/user-attachments/assets/e6644290-7fb2-4cd7-8184-73bde455c81a"   />
 </div>
 
 ###
 
 <br clear="both">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1AF700&width=435&lines=Hi%2C+I'm+Nazmus+Sakib+Anik;%F0%9F%9A%80+Frontend+and+MERN+Stack+Developer" alt="Typing SVG" /></a>
+<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1AF700&width=435&lines=Hi%2C+I'm+Nazmus+Sakib+Anik;%F0%9F%9A%80+Frontend+and+MERN+Stack+Developer" alt="Typing SVG" /></a> -->
 
-###
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&color=1AF700&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Nazmus+Sakib+Anik;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Clean+UI+%26+Scalable+Apps+Builder" alt="Typing SVG" />
+</h1>
+
+
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Welcome_To_My_Profile-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+
+
 
 ## 👨‍💻 About Me
 
