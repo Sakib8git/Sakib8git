@@ -107,15 +107,20 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakib8git&theme=react-dark&area=true&hide_border=true&custom_title=My%20GitHub%20Activity" width="48%"/>
   <img src="https://streak-stats.demolab.com?user=Sakib8git&theme=tokyonight&hide_border=true&border_radius=15" width="50%"/>
+  
 </p>
 
 
 ## 🐍 Contribution Snake
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</p> -->
+<p align="center">
+  <a href="https://github.com/Sakib8git" target="_blank">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+  </a>
 </p>
-
 
 ## 🏆 Achievements & Trophies
 <p align="center">
@@ -123,6 +128,9 @@
 </p>
 
 ###
+
+
+
 
 
 
