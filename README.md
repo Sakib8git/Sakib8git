@@ -10,7 +10,6 @@
 
 
 
-<!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1AF700&width=435&lines=Hi%2C+I'm+Nazmus+Sakib+Anik;%F0%9F%9A%80+Frontend+and+MERN+Stack+Developer" alt="Typing SVG" /></a> -->
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&color=1AF700&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Nazmus+Sakib+Anik;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Clean+UI+%26+Scalable+Apps+Builder" alt="Typing SVG" />
@@ -79,6 +78,15 @@
 
 ---
 
+
+
+
+
+
+
+
+
+
 ## 🐍 Contribution Snake
 
 <p align="center">
@@ -86,20 +94,18 @@
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
       alt="GitHub Contribution Snake"
       style="max-width:900px; width:100%; height:auto;" />
+    
   </a>
 </p>
 
 ---
+
 
 ## 🏆 Achievements & Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Sakib8git&theme=radical&no-frame=true&row=1&margin-w=15" />
 </p>
-
-
-
-
 
 
 
