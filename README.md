@@ -73,12 +73,16 @@
     <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sakib8git&theme=tokyonight" height="165" />
 </p>
 
-<p>
+
   
-
-
-
+<p align="center">
+ <p align="center">
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sakib8git&layout=compact&theme=tokyonight" />
 </p>
+</p>
+
+
+
 
 
 
