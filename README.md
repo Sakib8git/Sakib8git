@@ -66,26 +66,23 @@
 
 ## 📊 GitHub Stats & Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sakib8git&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sakib8git&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakib8git&theme=react-dark&area=true&hide_border=true&custom_title=GitHub%20Activity" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Sakib8git&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sakib8git&theme=tokyonight" height="165" />
 </p>
 
+<p>
+  
+
+
+
+</p>
+
+
+
 ---
-
-
-
-
-
-
-
-
-
 
 ## 🐍 Contribution Snake
 
@@ -94,14 +91,8 @@
     <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"
       alt="GitHub Contribution Snake"
       style="max-width:900px; width:100%; height:auto;" />
-    
   </a>
 </p>
-
-
-
-
-
 
 
 
