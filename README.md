@@ -66,20 +66,21 @@
 
 ## 📊 GitHub Stats & Analytics
 
- <p align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sakib8git&theme=tokyonight" height="165" />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sakib8git&theme=react-dark&area=true&hide_border=true&custom_title=GitHub%20Activity" width="48%" />
     
 </p>
 
-
+ <p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Sakib8git&theme=tokyonight" height="165" />
+  
+</p>
   
 
  <p align="center">
-  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sakib8git&layout=compact&theme=tokyonight" />
+<img width="40%" height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sakib8git&layout=compact&theme=tokyonight" />
 </p>
 
 
