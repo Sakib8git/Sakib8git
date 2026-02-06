@@ -12,7 +12,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&color=1AF700&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Nazmus+Sakib+Anik;MERN+Stack+Developer;React+%7C+Node+%7C+MongoDB;Clean+UI+%26+Scalable+Apps+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&color=1AF700&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Nazmus+Sakib+Anik;Web+Developer;Frontend+Developer;MERN+Stack+Developer;Clean+UI+%26+Scalable+Apps+Builder" alt="Typing SVG" />
 </h1>
 
 
