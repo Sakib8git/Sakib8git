@@ -13,7 +13,6 @@
 </h1>
 
 
-
 ## 👨‍💻 About Me
 
 🚀 Passionate **Frontend & MERN Stack Developer** from **Khulna, Bangladesh**, focused on building fast, scalable, and visually polished web applications.  
